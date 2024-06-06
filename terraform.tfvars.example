@@ -1,0 +1,5 @@
+gke_cluster = {
+  name       = "my-gke-cluster"
+  location   = "asia-southeast1" # region
+  project_id = "my-gcp-project-id"
+}
